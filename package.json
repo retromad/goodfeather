@@ -5,7 +5,11 @@
   "hexo": {
     "version": "3.4.3"
   },
-  "dependencies": {
+"engines": {
+  "node": "9.2.1",
+  "npm": "5.5.1"
+  },  
+ "dependencies": {
     "hexo": "^3.2.0",
     "hexo-admin": "^2.3.0",
     "hexo-generator-archive": "^0.1.4",
